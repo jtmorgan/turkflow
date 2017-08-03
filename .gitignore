@@ -1,3 +1,4 @@
 env/
 *.bbprojectd
 *.DS_Store
+*config.py
